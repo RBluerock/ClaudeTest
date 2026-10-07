@@ -1,0 +1,10 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A simple to-do list app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
